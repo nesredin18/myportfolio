@@ -13,6 +13,7 @@ body {
   padding-top: 2cm;
   padding-bottom: 2cm;
   height: 5mm;
+  min-width: 1000px;
  }
 
 .topmenu {
